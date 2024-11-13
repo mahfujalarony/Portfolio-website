@@ -19,7 +19,10 @@ This is my personal portfolio built with **Next.js**, **Framer Motion**, and **T
    npm install
    npm run dev
    ```
+### Live Preview
+[Click here to view the live site](https://portfolio-website-yu61-j0dm1v35l-mahfuj-alam-ronys-projects.vercel.app/)
 
+### Project Picture
    ![Description of the image](./public/Screenshot%202024-11-13%20160224.png)
 
 
