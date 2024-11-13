@@ -1,5 +1,6 @@
 {
-  "rules": {
-    "react/no-unescaped-entities": "off"
+  "extends": ["next", "next/core-web-vitals"],
+  "parserOptions": {
+    "jsx": true
   }
 }
