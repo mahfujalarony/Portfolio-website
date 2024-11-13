@@ -24,7 +24,7 @@ This is my personal portfolio built with **Next.js**, **Framer Motion**, and **T
 
 
 ### Demo Video:
-[Watch the demo video on YouTube](https://www.youtube.com/watch?v=VIDEO_ID)
+[Watch the demo video on YouTube](https://youtu.be/3MgJ0jRvaOA?feature=shared)
 
 
 
